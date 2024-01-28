@@ -1,2 +1,2 @@
 # CraftsLethatSuits
-Lethal Company modpack to play with friends
+This is a simple pack that add more costumes to chose from
